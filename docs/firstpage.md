@@ -1,8 +1,4 @@
-layout: page
-title: "Technology Stack"
-permalink: /firstpage
-
-# Course Overview
+# first page
 ## Resources
 
 [Apex Development Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)

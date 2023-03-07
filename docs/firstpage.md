@@ -1,5 +1,9 @@
-# first page1
-## Resources
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 
 [Apex Development Guide](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
 
